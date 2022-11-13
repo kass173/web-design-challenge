@@ -34,11 +34,11 @@ The view looks as follows:
   
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![Landing page large screen](images/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![Landing page small screen](images/landing-sm.png)
   
 ### 2. Four visualization pages 
   * With a descriptive title and heading tag.
@@ -47,11 +47,11 @@ Small screen:
   
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![visualize page large screen](images/visualize-lg.png)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![visualize page small screen](images/visualize-sm.png)
 
 ### 3. Comparisons page
   * Contains all of the visualizations on the same page so we can easily visually compare them.
@@ -60,22 +60,22 @@ Small screen:
  
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison page large screen](images/comparison-lg.png)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison page small screen](images/comparison-sm.png)
                                    
 ### 4. Data page
   * In the data page I displayed a responsive table containing the data used in the visualizations.
     * The table is constructed by using a bootstrap table component.
     * The data come from exporting the `.csv` file as HTML.
 Large screen:
-![data page large screen](Images/data-lg.png)
+![data page large screen](images/data-lg.png)
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data page small screen](images/data-sm.png)
 
 Note:-
 The website is at the top of every page, and have a navigation menu for plots, comparison, Data, and My page (Portfolio page)  
@@ -86,13 +86,13 @@ The website is at the top of every page, and have a navigation menu for plots, c
 
 Large screen:
 
-![Navigation page large screen](Images/nav-lg.png)
+![Navigation page large screen](images/nav-lg.png)
 
 
 
 Small screen:
 
-![Navigation page small screen](Images/nav-sm.png)
+![Navigation page small screen](images/nav-sm.png)
 
 
 
